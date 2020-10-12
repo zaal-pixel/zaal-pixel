@@ -1,7 +1,8 @@
 ## Hi there, I'm Alza - aka zaal-pixel 👋
+<h3>A Hobby Coder</h3>
 
 
-### I'm a  currently a student
+### I'm currently a student
 
 
 - 🔭 I’m currently working on private projects
